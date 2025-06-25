@@ -1,0 +1,6 @@
+Order ID,Category,Region,Customer Name,Order Date String,Sales,Ship Date,Product Name
+1,Technology,West,Anna,01-01-2025,1000.0,,Laptop  
+2,Technology,East,Anna,25-02-2025,,2025-03-01,Phone
+3,Furniture,West,Bob,15-01-2025,1500.0,2025-01-20,  Chair
+4,Furniture,East,Bob,01-03-2025,500.0,,Table
+5,Technology,West,Charlie,,800.0,2025-01-15,Monitor
